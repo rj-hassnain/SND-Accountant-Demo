@@ -1,0 +1,6 @@
+{
+  "name": "SND Accountants & Business Consultants",
+  "description": "Accountancy, tax planning, payroll, VAT, and business consultancy services in Bolton and Manchester.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
